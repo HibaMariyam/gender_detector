@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
              child: Column(
                      children: [
         
-             Text("Do you what to know your gender?",
+             Text("Do you want to know your gender?",
              style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                fontSize: 30,
                color: Colors.black,

@@ -118,7 +118,7 @@ class _HomePageState extends State<HomePage> {
                  
                
              ),
-             SizedBox(height: 15,),
+             SizedBox(height: 14,),
               if(userGender == 'male')
       Image.asset('assets/images/male1.png',
       height: 50,
